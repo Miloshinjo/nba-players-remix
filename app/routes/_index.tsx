@@ -80,7 +80,7 @@ export default function IndexRoute() {
   return (
     <main className="min-h-screen bg-gray-100 flex flex-col justify-center items-center gap-10">
       <h1 className="text-xl font-medium underline">
-        NBA Players Database{' '}
+        NBA Players Database (Remix){' '}
         <span role="img" aria-label="basketball emoji">
           🏀
         </span>
